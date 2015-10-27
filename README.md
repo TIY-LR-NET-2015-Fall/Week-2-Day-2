@@ -26,7 +26,7 @@ var numbers = new[]
 2. HW Review
 3. Generics
 4. Extensions
-5. if time allows, exceptions
+5. enums
 
 # Homework
 Mechanic Shop
